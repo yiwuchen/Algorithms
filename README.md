@@ -17,6 +17,7 @@ Byte: 8 bits
 64-bit machine usually use 8 byte pointers
 
 General Data Structures Space
+
 | Type | Bytes |
 | :--- | ---: |
 | **Primitive type** | |
